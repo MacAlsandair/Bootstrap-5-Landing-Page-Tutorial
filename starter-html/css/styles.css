@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.gradient {
+    background: rgb(17,6,200);
+    background: linear-gradient(90deg, rgba(17,6,200,1) 0%, rgba(94,0,110,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+}
