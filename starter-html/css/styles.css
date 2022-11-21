@@ -15,3 +15,12 @@ html, body {
     font-size: 1.25rem;
     color: white;
 }
+
+.feature {
+    color: #fff;
+}
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
